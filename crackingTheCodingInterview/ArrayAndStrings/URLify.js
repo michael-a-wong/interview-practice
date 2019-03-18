@@ -36,5 +36,5 @@ if (!String.prototype.splice) {
 
 
 var test = "hello, world "; 
- 
+    
 console.log(urlify(test, test.length)); 
